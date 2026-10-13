@@ -1,0 +1,13 @@
+# Torch, transformers, peft, and sentence-transformers are expected from the
+# active CUDA environment. The project venv is created with
+# --system-site-packages so those builds are reused.
+accelerate
+fastapi
+langgraph
+langchain-core
+pdfplumber
+pymupdf
+python-multipart
+rank-bm25
+reportlab
+uvicorn

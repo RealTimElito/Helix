@@ -1,0 +1,1 @@
+Spare motors may leave the cage only when a bench ticket names the borrower and a return date. The rule does not cover motors that have already been sitting on the repair bench since last quarter. Should those bench motors be tagged under the same ticket rule before the next audit?

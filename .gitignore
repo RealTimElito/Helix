@@ -1,0 +1,37 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# Local index and embeddings. Do not commit the database or vector files.
+data/helix.db
+data/embeddings/
+data/uploads/
+*.db
+*.npz
+
+# Generated training artifacts.
+data/sft/
+data/retrieval/
+runs/
+
+# Model weights. Download the base models separately.
+models/Qwen*/
+models/helix-lora/
+models/helix-embed/
+
+# Frontend build and dependencies.
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Secrets.
+.env
+.env.*
+*credentials*
+
+*.log
+.DS_Store
+.cursor/

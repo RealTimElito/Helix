@@ -1,0 +1,1 @@
+The east intake pump stalled twice before noon, and both times the drive coupling had worked loose. A mechanic reseated the coupling and the pump held through the rest of the shift. That repair does not show whether the set screw was undertorqued when the coupling was first installed. Will the same coupling stay seated through a full weekend of start and stop cycles?

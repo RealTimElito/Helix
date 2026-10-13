@@ -1,0 +1,1 @@
+The dock thermometer sat 4.2 degrees above the warehouse probe across six morning checks. The comparison is limited to the shaded face of the dock during that hour, so a sunlit reading could move the gap. Does the same offset show up on the sunlit face after midday?
